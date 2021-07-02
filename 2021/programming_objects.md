@@ -16,7 +16,7 @@ A **class** defines a **type** of object, the **variables** inside the object (s
 To start an object, type the keyword `class` and then choose a class name.
 
 {{site.data.alerts.tip}}
-Though not required, a common convention followed by programmers is to begin class names with an uppercase letter).
+Though not required, a common convention followed by programmers is to begin class names with an uppercase letter.
 {{site.data.alerts.end}}
 
 ## A Skeleton of a Class
@@ -214,7 +214,7 @@ These objects do a great job of cleaning up our code—consider having to keep t
 
 ### Exercise 3.4.1:
 
-- Using this code as a base, subtract some money to Alison's account and then output her balance.
+- Using this code as a base, subtract some money from Alison's account and then output her balance.
 
 {{+}}Tutorial 3.4.1, 3_4_1{{+}}
 

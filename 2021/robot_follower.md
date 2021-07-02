@@ -216,7 +216,7 @@ Now we're going to make it so you only see where the line is under the line foll
 
 - Make a global array of type `int` with 8 elements. Name it `lineSensor`. 
 - Modify the loop so that it reads the ADC using `bot.readLineSensor`.
-  - Use a `for` loop so that it fills the `adc` variable.
+  - Use a `for` loop so that it fills the `lineSensor` variable.
 - Modify the `for` loop in `printAsterisks`.
   - Every time `lineSensor[i] > thresh`, it should put 2 asterisks.
   - Every time `lineSensor[i]` is not `> thresh`, it should put 2 dashes.
